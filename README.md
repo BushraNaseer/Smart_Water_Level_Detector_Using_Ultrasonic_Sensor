@@ -156,7 +156,7 @@ The motor is powered from the 9 V battery through the driver. **Connect the batt
 ```
 smart-water-level-detector/
 ├── README.md
-├── arduino_code/
+├── smart_water_level_detector/
 │   └── smart_water_level_detector.ino
 └── images/
     └── hardware_annotated.png
