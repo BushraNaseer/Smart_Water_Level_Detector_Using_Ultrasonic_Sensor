@@ -19,10 +19,6 @@ The system works in two modes:
 
 *Frame from the demo video: the ultrasonic sensor above the cup, the Arduino Uno, the motor driver and the motor. In the video, the buzzer sounds when the water poured into the cup passes the threshold.*
 
-![Electronics close-up](images/electronics_closeup.png)
-
-*Close-up of the Arduino, breadboard and motor driver.*
-
 ---
 
 ## How it works
